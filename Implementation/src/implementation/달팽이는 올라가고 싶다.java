@@ -8,9 +8,9 @@ public class backJoon_2869 {
 		
 		Scanner input = new Scanner(System.in);
 		
-		long A = input.nextInt(); // ¿Ã¶ó°¡´Â ±æÀÌ
-		long B = input.nextInt(); //³»·Á¿À´Â ±æÀÌ
-		long V = input.nextInt(); //Æ®¸®ÀÇ ³ôÀÌ 
+		long A = input.nextInt(); // ì˜¬ë¼ê°€ëŠ” ê¸¸ì´
+		long B = input.nextInt(); //ë‚´ë ¤ì˜¤ëŠ” ê¸¸ì´
+		long V = input.nextInt(); //íŠ¸ë¦¬ì˜ ë†’ì´ 
 	
 		long k =(V-A)/(A-B);
 		
