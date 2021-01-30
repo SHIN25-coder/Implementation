@@ -14,9 +14,9 @@ public static void main(String[]args) {
 		
 		while(i<testcase) {
 			
-			int H = sc.nextInt(); //HÃþ °Ç¹° 
-			int W = sc.nextInt(); //W°³ÀÇ ¹æ  
-			int N = sc.nextInt(); //N¹øÂ° ¼Õ´Ô 
+			int H = sc.nextInt(); //HÃƒÃ¾ Â°Ã‡Â¹Â° 
+			int W = sc.nextInt(); //WÂ°Â³Ã€Ã‡ Â¹Ã¦  
+			int N = sc.nextInt(); //NÂ¹Ã¸Ã‚Â° Â¼Ã•Â´Ã” 
 			
 			if(N%H==0) {
 				W = N/H;
