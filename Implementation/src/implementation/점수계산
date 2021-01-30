@@ -8,7 +8,7 @@ public class backJoon_2506 {
 	
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in)); //¨ù¡¾¨ú©£
+		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in)); //Â¨Ã¹Â¡Â¾Â¨ÃºÂ©Â£
 		int i = Integer.parseInt(bf.readLine()); //Int
 		String s = bf.readLine(); //String
 		
