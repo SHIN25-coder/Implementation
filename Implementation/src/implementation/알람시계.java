@@ -11,7 +11,7 @@ public class backJoon_2884 {
 		int H = sc.nextInt();
 		int M = sc.nextInt();	
 		
-		// 45ºÐ ÀÏÂï ¾Ë¶÷ ¼³Á¤ÇÏ±â 
+		// 45ÂºÃ Ã€ÃÃ‚Ã¯ Â¾Ã‹Â¶Ã· Â¼Â³ÃÂ¤Ã‡ÃÂ±Ã¢ 
 		if(60+M>=105) {
 			//H = H-1;
 			M = M-45;
