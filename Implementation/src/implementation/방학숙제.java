@@ -8,11 +8,11 @@ public class backJoon_5532 {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		
-		int L = sc.nextInt(); // ¹æÇĞÃÑÀÏ
-		int A = sc.nextInt(); // Ç®¾î¾ßÇÏ´Â ±¹¾î ÃÑÆäÀÌÁö
-		int B = sc.nextInt(); // Ç®¾î¾ßÇÏ´Â ¼öÇĞ ÃÑ ÆäÀÌÁö
-		int C = sc.nextInt(); // »ó±ÙÀÌ°¡ ÇÏ·ç¿¡ Ç®¼öÀÖ´Â ÃÖ´ë ±¹¾îÆäÀÌÁö
-		int D = sc.nextInt(); // »ó±ÙÀÌ°¡ ÇÏ·ç¿¡ Ç®¼öÀÖ´Â ÃÖ´ë ¼öÇĞÆäÀÌÁö
+		int L = sc.nextInt(); // ë°©í•™ì´ì¼
+		int A = sc.nextInt(); // í’€ì–´ì•¼í•˜ëŠ” êµ­ì–´ ì´í˜ì´ì§€
+		int B = sc.nextInt(); // í’€ì–´ì•¼í•˜ëŠ” ìˆ˜í•™ ì´ í˜ì´ì§€
+		int C = sc.nextInt(); // ìƒê·¼ì´ê°€ í•˜ë£¨ì— í’€ìˆ˜ìˆëŠ” ìµœëŒ€ êµ­ì–´í˜ì´ì§€
+		int D = sc.nextInt(); // ìƒê·¼ì´ê°€ í•˜ë£¨ì— í’€ìˆ˜ìˆëŠ” ìµœëŒ€ ìˆ˜í•™í˜ì´ì§€
 		
 		
 		int Korean = A/C; int KoreanRest = A%C;
